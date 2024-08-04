@@ -35,7 +35,7 @@ Several visualizations were created to explore and present the data:
    ```sh
    pip install pandas matplotlib seaborn numpy
    ```
-3. Open the Jupyter Notebook `Project-4.ipynb` and run the cells sequentially to reproduce the analysis.
+3. Open the Jupyter Notebook `Order_Data_Analysis.ipynb` and run the cells sequentially to reproduce the analysis.
 
 ## Conclusion
 
